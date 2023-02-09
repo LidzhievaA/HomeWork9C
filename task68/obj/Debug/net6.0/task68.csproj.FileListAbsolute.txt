@@ -1,0 +1,15 @@
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ9C/task68/obj/Debug/net6.0/task68.csproj.AssemblyReference.cache
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ9C/task68/obj/Debug/net6.0/task68.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ9C/task68/obj/Debug/net6.0/task68.AssemblyInfoInputs.cache
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ9C/task68/obj/Debug/net6.0/task68.AssemblyInfo.cs
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ9C/task68/obj/Debug/net6.0/task68.csproj.CoreCompileInputs.cache
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ9C/task68/bin/Debug/net6.0/task68
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ9C/task68/bin/Debug/net6.0/task68.deps.json
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ9C/task68/bin/Debug/net6.0/task68.runtimeconfig.json
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ9C/task68/bin/Debug/net6.0/task68.dll
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ9C/task68/bin/Debug/net6.0/task68.pdb
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ9C/task68/obj/Debug/net6.0/task68.dll
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ9C/task68/obj/Debug/net6.0/refint/task68.dll
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ9C/task68/obj/Debug/net6.0/task68.pdb
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ9C/task68/obj/Debug/net6.0/task68.genruntimeconfig.cache
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ9C/task68/obj/Debug/net6.0/ref/task68.dll
